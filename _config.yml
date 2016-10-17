@@ -1,26 +1,25 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+title: Strata # Title of your site
+email: your-email@domain.com # Your contant email
 
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# Social links.
+# Replace the word 'example' with your username if you want to include the icon in the left sidebar
+# Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-paginate:         5
+twitter_username:     example  # Replace this with your Twitter username
+github_username:      example  # Replace this with your GitHub username
+linkedin_username:    example  # Replace this with your LinkedIn username
+google_plus_username: example  # Replace this with your Google+ username
+facebook_username:    example  # Replace this with your Facebook username
+dribbble_username:    example  # Replace this with your Dribbble username
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+# Build settings
+markdown: kramdown
