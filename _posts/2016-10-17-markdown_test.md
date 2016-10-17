@@ -3,12 +3,14 @@ layout: post
 title: Markdown Demo
 categories: Blog
 date: 2016-10-17 12:38:11
+comments: true
 # you can override the settings in _config.yml here !!
 ---
----
-layout: default
-title: my first post
----
-<h1>{{ page.title }}</h1>
-<p>This is my first post.Click the link below to go back to index:</p>
-<a href="{{ site.baseurl }}/index.html">Go back</a>
+
+# 为什么使用 Markdown
+
+* 看上去不错  
+* 既然看上去不错，为什么不试试呢  
+
+
+# 如何使用 Markdown
