@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: HTC Vive小场地与大场景空间的解决方案
 category: Techni
 comments: true
