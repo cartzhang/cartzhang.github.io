@@ -186,12 +186,15 @@ obj = gameObject.InstantiateFromPool(prefab);
 PoolPreCreate.cs 文件，在start游戏开始时候，预先产生一些对象的脚本。
 
 ![image](https://github.com/cartzhang/pool_bench/blob/master/img/0.png)
+
 图0
+
 ## 四、样例使用说明代码
 
 HowToUse.cs文件中，说明怎么使用对象池。并起有UI文字提示。
 
 ![image](https://github.com/cartzhang/pool_bench/blob/master/img/4.png)
+
 图4
 
 TestEffect.cs脚本文件，测试在协同中一边申请，一边回池会不会造成错误的测试。
