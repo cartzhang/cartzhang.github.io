@@ -9,7 +9,7 @@
 画的思维导图也只顾C++相关的，请见谅，多年以后本书依然精彩，值得拜读。
 
 
-![](https://github.com/cartzhang/cartzhang.github.io/blob/master/images/readgametravel/C%2B%2B.png)
+![test](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/readgametravel/C%2B%2B.png)
 
 
 ## 汇编：
