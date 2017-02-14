@@ -24,7 +24,7 @@ https://github.com/cartzhang/simple_pool_bench
 
 因为Unity不允许在其他自己建立的线程中调用Destroy函数，所以还是要在Update中进行处理。
 
-![image](https://github.com/cartzhang/simple_pool_bench/blob/master/img/pool_bench_optimize.png)
+![optimizationimage](https://github.com/cartzhang/cartzhang.github.io/blob/master/images/simple_pool/pool_bench_optimize.png)
 
 这个是自己画的流程图，基本就是这个样子。当然里面具体参数，可以根据自己需要调整。
 
