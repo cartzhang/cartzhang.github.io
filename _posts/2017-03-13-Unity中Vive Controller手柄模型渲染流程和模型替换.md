@@ -1,4 +1,7 @@
 
+本文章由cartzhang编写，转载请注明出处。 所有权利保留。 
+文章链接：http://blog.csdn.net/cartzhang/article/details/61913354 
+作者：cartzhang
 
 ## 一、手柄渲染总体流程
 
@@ -29,7 +32,7 @@
 左右手柄节点，然后是相机节点。左右手柄下有一个模型节点。
 在不运行的情况下，是这样的。
 
-![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/Render.png)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/Render.PNG)
 
 只有这一个rendermodel这个脚本。
 
@@ -49,7 +52,7 @@
 
 图1
 
-![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/Render.png)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/Render.PNG)
 
 图 Render
 
