@@ -29,13 +29,13 @@
 左右手柄节点，然后是相机节点。左右手柄下有一个模型节点。
 在不运行的情况下，是这样的。
 
-![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/Render.PNG)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/Render.png)
 
 只有这一个rendermodel这个脚本。
 
 先给出个总的手柄渲染代码流程图。
 
-![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/RenderFlow.PNG)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/RenderFlow.png)
 
 这个图我自己分析画的，不是很专业，但是足以说明问题。
 
@@ -49,7 +49,7 @@
 
 图1
 
-![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/Render.PNG)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/Render.png)
 
 图 Render
 
