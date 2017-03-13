@@ -10,7 +10,7 @@
 
 根据代码流程绘制了简单的导图。
 
-![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/ViveController手柄渲染.PNG)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/ViveController%E6%89%8B%E6%9F%84%E6%B8%B2%E6%9F%93.png)
 
 图 手柄渲染导图
 
@@ -22,7 +22,7 @@
 
 首先来看看，在unity中检视板内的排列
 
-![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/0.PNG)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/0.png)
 
 图0
 
@@ -45,7 +45,7 @@
 
 首先代码分析，我们可以看到有两个关键代码文件，一个是SteamVR_ContollterManager.cs,一个是SteamVR_RenderModel.cs。他们分别在[CamearRig]和LeftiControl和RightController的 Model上。如下图。
 
-![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/1.PNG)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/vivecontroller/ViveControllerRender/1.png)
 
 图1
 
