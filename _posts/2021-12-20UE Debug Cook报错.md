@@ -13,7 +13,7 @@
 
 有一个离奇的问题，在于COOK过程中直接报错了，直接丢出一个堆栈。
 
-![image](images\UEDebugCook\cookdebug1.png)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/UEDebugCook/cookdebug1.png)
 
 是不是很尴尬
 二、调试
@@ -28,7 +28,7 @@
 
 在属性中添加Debug 参数。
 
-![image](D:/Git/cartzhang.github.io/images/UEDebugCook/cookdebug.png)
+![image](https://github.com/cartzhang/cartzhang.github.io/raw/master/images/UEDebugCook/cookdebug.png)
 
 3、运行即可。
 我们这里报错直接指向某个UMG资源。在UE4升级UE5过程中，序列化的时候，指针数组越界了。
